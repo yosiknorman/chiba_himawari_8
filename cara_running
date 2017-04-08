@@ -1,0 +1,8 @@
+download file dengan skrip download_mtsat_10m.sh
+chmod +x download_mtsat_10m.sh
+./download_mtsat_10m.sh
+
+konversi ke tbb dengan format nc dengan skrip compile_all.sh
+chmod +x compile_all.sh
+./compile_all.sh
+
